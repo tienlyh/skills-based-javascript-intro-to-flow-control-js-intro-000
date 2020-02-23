@@ -1,5 +1,5 @@
 function basicTeenager(13) {
-if (age===the game is between 13-19)
+if (age===13)
 return "You are a teenager!" if the age is between 13-19;
 }
 
